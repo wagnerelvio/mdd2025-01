@@ -1,0 +1,22 @@
+INSERT INTO pessoas (FirstName, LastName, Idade, Cidade, Estado, Pais)  
+VALUES  
+('Carlos', 'Silva', 30, 'São Paulo', 'SP', 'Brasil'),  
+('Ana', 'Santos', 25, 'Rio de Janeiro', 'RJ', 'Brasil'),  
+('Miguel', 'Gomes', 40, 'Curitiba', 'PR', 'Brasil'),  
+('Sophia', 'Martins', 22, 'Lisboa', 'Lisboa', 'Portugal'),  
+('Lucas', 'Fernandes', 35, 'Porto', 'Porto', 'Portugal'),  
+('Emma', 'Johnson', 28, 'New York', 'NY', 'EUA'),  
+('Oliver', 'Brown', 45, 'Los Angeles', 'CA', 'EUA'),  
+('Amélie', 'Dubois', 33, 'Paris', 'Île-de-France', 'França'),  
+('Liam', 'O’Connor', 38, 'Dublin', 'Dublin', 'Irlanda'),  
+('Isabella', 'Rossi', 29, 'Roma', 'Lazio', 'Itália'),  
+('Ethan', 'Smith', 31, 'Toronto', 'Ontario', 'Canadá'),  
+('Noah', 'Schneider', 27, 'Berlim', 'Berlim', 'Alemanha'),  
+('Charlotte', 'Moreau', 26, 'Lyon', 'Auvergne-Rhône-Alpes', 'França'),  
+('Mateo', 'García', 36, 'Madri', 'Madri', 'Espanha'),  
+('Sophie', 'Dupont', 24, 'Marselha', 'Provence-Alpes-Côte d\'Azur', 'França'),  
+('Daniel', 'Hernandez', 32, 'Barcelona', 'Catalunha', 'Espanha'),  
+('Aiden', 'Taylor', 34, 'Chicago', 'IL', 'EUA'),  
+('Emily', 'Clark', 21, 'Londres', 'Inglaterra', 'Reino Unido'),  
+('Hiroshi', 'Tanaka', 42, 'Tóquio', 'Kanto', 'Japão'),  
+('Yuki', 'Yamamoto', 23, 'Osaka', 'Kansai', 'Japão');  
