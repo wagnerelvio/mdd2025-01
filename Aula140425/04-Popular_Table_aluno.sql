@@ -29,3 +29,4 @@ INSERT INTO aluno (idaluno, nomealuno, idcurso) VALUES
 (128, 'Caio Cardoso', 6),
 (129, 'Diego Rezende', 6),
 (130, 'Erica Souza', 6);
+
