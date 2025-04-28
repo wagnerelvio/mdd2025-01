@@ -5,3 +5,4 @@ INSERT INTO curso (idcurso, nomecurso) VALUES
 (4, 'Engenharia Civil'),
 (5, 'Arquitetura e Urbanismo'),
 (6, 'Engenharia Elétrica');
+
