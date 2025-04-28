@@ -1,4 +1,4 @@
--- Criar a tabela aluno
+-- Criar a tabela aluno 
  
 CREATE TABLE aluno (
     idaluno INTEGER PRIMARY KEY,
